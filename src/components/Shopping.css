@@ -1,0 +1,78 @@
+.shopping-image {
+    width: 17vw;
+    border-radius: 8px;
+}
+
+.shopping-item {
+    width: 17vw;
+    height: 60vh;
+    margin: 2vw;
+    padding: 1vw;
+    position: relative;
+    background-color: rgb(255, 206, 214);
+    border-radius: 10px;
+}
+
+.shoppingS {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shopping-image2 {
+    width: 7vw;
+    border-radius: 8px;
+}
+
+.stt {
+    width: 3vw;
+}
+
+.name {
+    width: 45vw;
+}
+
+.price {
+    width: 7vw;
+}
+
+.quantity {
+    width: 5vw;
+}
+
+.image {
+    width: 13vw;
+}
+
+.amount {
+    width: 10vw;
+}
+
+.action {
+    width: 15vw;
+}
+
+.image {
+    width: 5vw;
+
+}
+
+.action2 {
+    margin: 1vw;
+    width: 5vw;
+    height: 4vh;
+    background-color: bisque;
+    border-radius: 5px;
+
+}
+
+.action3 {
+    margin: 1vw;
+    width: 5vw;
+    height: 4vh;
+    background-color: rgb(255, 139, 93);
+    border-radius: 5px;
+}
+
+.input-group2 {
+    width: 2vw;
+}
